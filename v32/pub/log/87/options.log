@@ -1,0 +1,1 @@
+2020/12/23 09:12:27 : Options : INSERT INTO `_DBPRF_options` (`option_name`, `option_value`, `autoload`) VALUES ('urlrewrite_type', 'url301', 'yes'): <span class="message-alert-error">SQLSTATE[42S02]: Base table or view not found: 1146 Table 'woocommerce.options' doesn't exist</span>
